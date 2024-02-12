@@ -289,7 +289,7 @@ p#description {
         position: relative;
         display: block;
         margin: 0 auto;
-       bottom: 2%;
+       bottom: 1%;
         width: 80px;
        z-index: 1;
         display: flex;
